@@ -1,5 +1,3 @@
-//const BasePage = require("./page.js");
-//const ResultsPage = require("./results.page.js");
 import BasePage from "./page";
 import ResultsPage from "./results.page";
 
